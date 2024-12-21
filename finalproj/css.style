@@ -1,1 +1,7 @@
 
+body {padding:0; margin:0; background: #f1daf1; font-family:"Times New Roman" serif;}
+img {width: 100px; height: 100px;}
+.element {
+  float: left ;
+  
+}
